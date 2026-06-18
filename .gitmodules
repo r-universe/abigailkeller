@@ -5,3 +5,6 @@
 [submodule "greencrab.toolkit"]
 	path = greencrab.toolkit
 	url = https://github.com/abigailkeller/greencrab.toolkit
+[submodule "hellokitty"]
+	path = hellokitty
+	url = https://github.com/abigailkeller/hellokitty
